@@ -1,4 +1,4 @@
-# Financial Performance Prediction & Portfolio Optimization Platform
+# OptiVest - Financial Performance Prediction & Portfolio Optimization Platform
 
 A modern web application that combines advanced financial models with machine learning to provide portfolio optimization and stock prediction capabilities.
 
